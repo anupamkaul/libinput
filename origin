@@ -1,0 +1,6 @@
+git remote -v
+origin	https://github.com/anupamkaul/libinput.git (fetch)
+origin	https://github.com/anupamkaul/libinput.git (push)
+upstream	https://github.com/wayland-project/libinput.git (fetch)
+upstream	https://github.com/wayland-project/libinput.git (push)
+
